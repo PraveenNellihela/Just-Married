@@ -1,8 +1,13 @@
-.header{
-  padding: 60px;
+#BrandName{
+  padding-left: 15px;
+  padding-right: 25px;
+  padding-top: 12px;
   text-align: center;
-  background: #1abc9c;
-  color: white;
-  font-size: 30px;
-  opacity: 0.5;
+  color: lightblack;
+  font-size: 20px;
+  font-weight:350;
+}
+#main_jumbotron{
+  background-color: white;
+
 }
